@@ -1,8 +1,5 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2019-07-04 15:07
-# @Author  : liukang.hero
-# @FileName: image_manage.py
 
 import os
 import uuid
